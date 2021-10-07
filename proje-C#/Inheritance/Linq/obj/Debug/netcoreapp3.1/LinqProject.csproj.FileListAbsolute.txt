@@ -1,0 +1,13 @@
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.exe
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.deps.json
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.json
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.dev.json
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\cansu\source\repos\Inheritance\Linq\bin\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.csprojAssemblyReference.cache
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfoInputs.cache
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfo.cs
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.csproj.CoreCompileInputs.cache
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.dll
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.pdb
+C:\Users\cansu\source\repos\Inheritance\Linq\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache

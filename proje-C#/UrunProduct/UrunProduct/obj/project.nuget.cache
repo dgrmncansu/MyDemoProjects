@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2VzmVJOHcvnnbyEPwXY7f1KLkwCBquonPtspiDTkxrbRJeHL8NfgNOkgTc4GtZN1vFacbTVFpFHHLi1Y5vIgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cansu\\source\\repos\\UrunProduct\\UrunProduct\\UrunProduct.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

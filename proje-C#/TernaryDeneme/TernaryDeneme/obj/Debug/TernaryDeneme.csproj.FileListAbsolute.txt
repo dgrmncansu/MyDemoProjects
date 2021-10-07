@@ -1,0 +1,9 @@
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\bin\Debug\TernaryDeneme.exe.config
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\bin\Debug\TernaryDeneme.exe
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\bin\Debug\TernaryDeneme.pdb
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.csprojAssemblyReference.cache
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.Properties.Resources.resources
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.csproj.GenerateResource.cache
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.csproj.CoreCompileInputs.cache
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.exe
+C:\Users\cansu\OneDrive\Masaüstü\proje-C#\TernaryDeneme\TernaryDeneme\obj\Debug\TernaryDeneme.pdb

@@ -1,0 +1,17 @@
+import javax.swing.plaf.synth.SynthDesktopIconUI;
+
+public class ProductManager {
+
+    public void add(Product product){
+        ProductValidator validator = new ProductValidator();
+        if (ProductValidator.isVolid(product)) {
+            System.out.println("Eklendi.");
+        }else{
+            System.out.println("Ürün bilgileri geçersizdir");
+        }
+
+        ProductValidator productValidator= new ProductValidator();
+        productValidator.bisey();
+
+    }
+}

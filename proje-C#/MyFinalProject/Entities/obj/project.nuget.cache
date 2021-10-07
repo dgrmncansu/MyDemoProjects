@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "foJUzyUh7E/wJdkmMRv5WdiRmnHvDieO0d8W1xXUg+NV/xgrcP3HyDouPpji9PCttYAhuedEJoNHW0iSv2/YjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cansu\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\cansu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

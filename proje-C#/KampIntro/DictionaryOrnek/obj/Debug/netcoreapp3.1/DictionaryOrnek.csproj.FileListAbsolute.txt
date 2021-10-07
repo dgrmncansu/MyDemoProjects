@@ -1,0 +1,13 @@
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.exe
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.deps.json
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.runtimeconfig.json
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.runtimeconfig.dev.json
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.dll
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\bin\Debug\netcoreapp3.1\DictionaryOrnek.pdb
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.csprojAssemblyReference.cache
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.AssemblyInfoInputs.cache
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.AssemblyInfo.cs
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.csproj.CoreCompileInputs.cache
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.dll
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.pdb
+C:\Users\cansu\source\repos\KampIntro\DictionaryOrnek\obj\Debug\netcoreapp3.1\DictionaryOrnek.genruntimeconfig.cache

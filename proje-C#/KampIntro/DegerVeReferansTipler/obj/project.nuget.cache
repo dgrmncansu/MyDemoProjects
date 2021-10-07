@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "shVlQshqp2/Var+lfUYszZQGSngYGY1Bp7kS/ggGlX171qlUIvGT2Us3p67WU/o7vVJ5teOxVkysLfFWY4/fBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cansu\\source\\repos\\KampIntro\\DegerVeReferansTipler\\DegerVeReferansTipler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

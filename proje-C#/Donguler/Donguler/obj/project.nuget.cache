@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "StdezJwOCiBlG4uKQgLWyXVJjhrn7hpY+LTke07p0w0Zk9fbsRd3zOGIGPo1/GxPoVOs4/RuE/lNd7IhwcJidg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cansu\\source\\repos\\Donguler\\Donguler\\Donguler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

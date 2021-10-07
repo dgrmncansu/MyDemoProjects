@@ -1,0 +1,6 @@
+C:\Users\cansu\source\repos\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\cansu\source\repos\Project2\bin\Debug\Project2.exe.config
+C:\Users\cansu\source\repos\Project2\bin\Debug\Project2.exe
+C:\Users\cansu\source\repos\Project2\bin\Debug\Project2.pdb
+C:\Users\cansu\source\repos\Project2\obj\Debug\Project2.exe
+C:\Users\cansu\source\repos\Project2\obj\Debug\Project2.pdb

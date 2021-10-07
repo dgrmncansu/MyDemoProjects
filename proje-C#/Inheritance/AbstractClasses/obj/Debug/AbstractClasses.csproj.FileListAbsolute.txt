@@ -1,0 +1,7 @@
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\cansu\source\repos\Inheritance\AbstractClasses\obj\Debug\AbstractClasses.pdb

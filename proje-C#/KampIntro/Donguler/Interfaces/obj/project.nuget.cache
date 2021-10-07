@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukE6Lh8XAbxsweGqzBFXLgS9jKFeQuumunW3gL+Nzld+n+mV4nR8aIhTHDUWwN2Zk8inIq5OcMeKVE9CkbkWMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cansu\\source\\repos\\KampIntro\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cansu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,29 @@
+package adapters;
+
+import java.rmi.RemoteException;
+import java.util.Locale;
+import Concrete.Customer;
+import tr.gov.nvi.tckimlik.WS.KPSPublicSoapProxy;
+
+public class MernisServiceAdapter implements CustomerCheckService{
+
+	@Override
+	public boolean checkIfRealPerson(Customer customer)  {
+		
+		KPSPublicSoapProxy client = new KPSPublicSoapProxy();
+		
+		boolean result=true;
+		try {
+			result=client.TCKimlikNoDogrula(Long.parseLong(customer.getNationality()), 
+					customer.getFirstName().toUpperCase(new Locale("tr")),
+					customer.getLastName().toUpperCase(new Locale("tr")), customer.getDatetimeOfBirth());
+	
+		} catch (RemoteException e) {
+			
+			e.printStackTrace();
+		}
+		
+		return result;
+	}
+
+}
